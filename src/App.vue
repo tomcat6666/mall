@@ -3,8 +3,11 @@
     <div id="nav">
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
+      <router-link to="/login/1">Login1111</router-link>
+      <router-link to="/login/2">Login2222</router-link>
+      <router-link to="/jin">Jindada专用</router-link>
     </div>
-    <router-view/>
+    <router-view />
   </div>
 </template>
 
